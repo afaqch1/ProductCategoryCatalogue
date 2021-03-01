@@ -1,0 +1,9 @@
+C:\Users\Techverx\source\repos\ProductCategoryCatalogue\BusinessObjectLayer\obj\Debug\netcoreapp3.1\BusinessObjectLayer.csprojAssemblyReference.cache
+C:\Users\Techverx\source\repos\ProductCategoryCatalogue\BusinessObjectLayer\obj\Debug\netcoreapp3.1\BusinessObjectLayer.AssemblyInfoInputs.cache
+C:\Users\Techverx\source\repos\ProductCategoryCatalogue\BusinessObjectLayer\obj\Debug\netcoreapp3.1\BusinessObjectLayer.AssemblyInfo.cs
+C:\Users\Techverx\source\repos\ProductCategoryCatalogue\BusinessObjectLayer\obj\Debug\netcoreapp3.1\BusinessObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\Techverx\source\repos\ProductCategoryCatalogue\BusinessObjectLayer\bin\Debug\netcoreapp3.1\BusinessObjectLayer.deps.json
+C:\Users\Techverx\source\repos\ProductCategoryCatalogue\BusinessObjectLayer\bin\Debug\netcoreapp3.1\BusinessObjectLayer.dll
+C:\Users\Techverx\source\repos\ProductCategoryCatalogue\BusinessObjectLayer\bin\Debug\netcoreapp3.1\BusinessObjectLayer.pdb
+C:\Users\Techverx\source\repos\ProductCategoryCatalogue\BusinessObjectLayer\obj\Debug\netcoreapp3.1\BusinessObjectLayer.dll
+C:\Users\Techverx\source\repos\ProductCategoryCatalogue\BusinessObjectLayer\obj\Debug\netcoreapp3.1\BusinessObjectLayer.pdb
